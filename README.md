@@ -1,11 +1,5 @@
-<h1 align="center">Ali Raza</h1>
-<h3 align="center">Front-End Developer | Learning Back-End Development</h3>
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=gray&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
+h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Ali Raza</span></h1>
+<h3 align="center">💻 Front-End Developer | Learning Back-End Development</h3>
 
 ---
 
@@ -35,17 +29,14 @@ My goal is to become a **Full-Stack Web Developer** with strong design and probl
 
 ### 🎯 Current Focus  
 
-- Deepening my **JavaScript** knowledge  
-- Learning **Node.js** & back-end fundamentals  
-- Designing better **UI/UX** and accessibility-friendly web apps  
-- Building projects that connect design with functionality  
+Currently enhancing my expertise in JavaScript and modern front-end frameworks, while exploring back-end fundamentals to build scalable and user-centric websites and web apps.
 
 ---
 
 ### 📂 Featured Project  
 
 **[PeakQuest]([[https://github.com/your-username/PeakQuest](https://peakquest.netlify.app/)](https://peakquest.netlify.app/))**  
-A multi-page, adventure-themed website built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, focusing on responsive design and smooth user interaction.
+PeakQuest is a modern, adventure-themed multi-page website that brings together design, interactivity, and performance. Built with HTML, CSS, Bootstrap, and JavaScript, it offers a smooth, clean and engaging user experience. The website adapts beautifully across devices, ensuring a fully responsive and immersive browsing experience for all users.
 
 ---
 
