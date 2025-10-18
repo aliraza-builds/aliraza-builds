@@ -1,4 +1,4 @@
-h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Ali Raza</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Ali Raza</span></h1>
 <h3 align="center">💻 Front-End Developer | Learning Back-End Development</h3>
 
 ---
