@@ -44,21 +44,8 @@ My goal is to become a **Full-Stack Web Developer** with strong design and probl
 
 ### 📂 Featured Project  
 
-**[PeakQuest](https://github.com/your-username/PeakQuest)**  
+**[PeakQuest]([[https://github.com/your-username/PeakQuest](https://peakquest.netlify.app/)](https://peakquest.netlify.app/))**  
 A multi-page, adventure-themed website built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, focusing on responsive design and smooth user interaction.
-
----
-
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
