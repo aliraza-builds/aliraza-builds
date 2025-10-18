@@ -35,7 +35,7 @@ Currently enhancing my expertise in JavaScript and modern front-end frameworks, 
 
 ### 📂 Featured Project  
 
-**[PeakQuest]([[https://github.com/your-username/PeakQuest](https://peakquest.netlify.app/)](https://peakquest.netlify.app/))**  
+**[PeakQuest]([https://peakque](https://peakquest.netlify.app/))** 
 PeakQuest is a modern, adventure-themed multi-page website that brings together design, interactivity, and performance. Built with HTML, CSS, Bootstrap, and JavaScript, it offers a smooth, clean and engaging user experience. The website adapts beautifully across devices, ensuring a fully responsive and immersive browsing experience for all users.
 
 ---
