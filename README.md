@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me  
-I’m a passionate **Front-End Developer** from **Karachi, Pakistan** who loves creating responsive and modern web interfaces.  
+I’m a passionate **Front-End Developer** who loves creating responsive and modern web interfaces.  
 Currently focused on mastering **JavaScript** and enhancing user experience through clean, functional design.  
 
 ✨ *I believe great design is not just how it looks — it’s how it works!*  
